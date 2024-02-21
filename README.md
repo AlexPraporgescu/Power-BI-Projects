@@ -46,7 +46,7 @@ The analysis of the dataset was done by using the following tools available in P
  - Favourite programming language of the majority is Python, especially for Data Analysts.
  - A possible problem could be the happiness with the salary, which registered an average score of 4.27 out of 10, which is below average.
 
-  ### <ins>References</ins>
+4. References
  - [Youtube](https://www.youtube.com/)
 
   ### II. Cyclistic Google Capstone Project
@@ -55,7 +55,7 @@ The analysis of the dataset was done by using the following tools available in P
 
 More on this project can be found [here](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project).
 
-  ### <ins>References</ins>
+1. References
   
  - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?)
 
