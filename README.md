@@ -4,8 +4,8 @@ This repository contains various Data Visualization and/or **Power BI** projects
 
 |Project Name|
 |------------|
-|[Data Professional Survey Analysis](#I.-Data-Professional-Survey-Analysis)|
-|[Cyclistic - Google Capstone Project](#II.-Cyclistic-Google-Capstone-Project)|
+|[Data Professional Survey Analysis](#I.-data-professional-survey-analysis)|
+|[Cyclistic - Google Capstone Project](#II.-cyclistic-google-capstone-project)|
 
 All of my Power BI Projects are available to download from this repository: [<ins>Click here</ins>.]()
 
