@@ -4,7 +4,8 @@ This repository contains various Data Visualization and/or **Power BI** projects
 
 |Project Name|
 |------------|
-|[Data Professional Survey Analysis](#1.-Data-Professional-Survey-Analysis)|
+|[Data Professional Survey Analysis](#I.-Data-Professional-Survey-Analysis)|
+|[Cyclistic - Google Capstone Project](#II.-Cyclistic-Google-Capstone-Project)|
 
 All of my Power BI Projects are available to download from this repository: [<ins>Click here</ins>.]()
 
@@ -46,10 +47,21 @@ The analysis of the dataset was done by using the following tools available in P
  - A possible problem could be the happiness with the salary, which registered an average score of 4.27 out of 10, which is below average.
 
   ### <ins>References</ins>
+ - [Youtube](https://www.youtube.com/)
 
-1. [Youtube](https://www.youtube.com/)
+  ### II. Cyclistic - Google Capstone Project
+
+![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/7cc2205f-6f42-4a39-a439-7271150b21e9) ![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/c60c7780-e175-4374-9018-5929bada35f8)
+
+More on this project can be found [here](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project).
+
+  ### <ins>References</ins>
+  
+ - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?)
 
   ### <ins>Notes</ins>
 
 - These projects represent my practice work in the field of data analysis. The data used may no longer be relevant and therefore the findings should be treated in accordance.
 - For more details about me and my work, or if you want to get in touch with me, please access my [LinkedIn profile](https://www.linkedin.com/in/alexpraporgescu/).
+
+
