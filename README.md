@@ -4,14 +4,14 @@ This repository contains various Data Visualization and/or **Power BI** projects
 
 |Project Name|
 |------------|
-|[Data Professional Survey Analysis](#I.-data-professional-survey-analysis)|
-|[Cyclistic - Google Capstone Project](#II.-cyclistic-google-capstone-project)|
+|[Data Professional Survey Analysis](#data-professional-survey-analysis)|
+|[Cyclistic - Google Capstone Project](#cyclistic-google-capstone-project)|
 
 All of my Power BI Projects are available to download from this repository: [<ins>Click here</ins>.]()
 
   ## <ins>Screenshots</ins>
 
-  ### I. Data Professional Survey Analysis
+  ### <ins>Data Professional Survey Analysis</ins>
 
 ![image](https://github.com/AlexPraporgescu/Power-BI-Projects/assets/158141333/22edd272-82b3-4f3f-b75c-38df2a6c6939)
 
@@ -49,7 +49,7 @@ The analysis of the dataset was done by using the following tools available in P
 4. References
  - [Youtube](https://www.youtube.com/)
 
-  ### II. Cyclistic Google Capstone Project
+  ### <ins>Cyclistic Google Capstone Project</ins>
 
 ![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/7cc2205f-6f42-4a39-a439-7271150b21e9) ![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/c60c7780-e175-4374-9018-5929bada35f8)
 
