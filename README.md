@@ -49,7 +49,7 @@ The analysis of the dataset was done by using the following tools available in P
   ### <ins>References</ins>
  - [Youtube](https://www.youtube.com/)
 
-  ### II. Cyclistic - Google Capstone Project
+  ### II. Cyclistic Google Capstone Project
 
 ![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/7cc2205f-6f42-4a39-a439-7271150b21e9) ![image](https://github.com/AlexPraporgescu/SQL-Power-BI-Google-Capstone-Project/assets/158141333/c60c7780-e175-4374-9018-5929bada35f8)
 
