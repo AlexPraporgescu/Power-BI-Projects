@@ -17,7 +17,7 @@ All of my Power BI Projects are available to download from this repository: [<in
 
 1. Project Overview
 
-This project is based on a real survey data from more than 600 data professionals who answered several questions on LinkedIn, Twitter, etc. The survey dataset was obtained form [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+This project is based on a real survey data from more than 600 data professionals who answered several questions on LinkedIn, Twitter, etc. The survey dataset was obtained from [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
 The aim of the project was to investigate the data job market through the eyes of data professionals, regarding some key aspects such as: dificulty to break into data domain, average salary for different job titles, happiness with work-life balance,
 happiness with salary and more.
 
