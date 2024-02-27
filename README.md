@@ -6,6 +6,7 @@ This repository contains various Data Visualization and/or **Power BI** projects
 |------------|
 |[Data Professional Survey Analysis](#data-professional-survey-analysis)|
 |[Cyclistic - Google Capstone Project](#cyclistic-google-capstone-project)|
+|[Google Playstore Analysis](#google-playstore-analysis)|
 
 All of my Power BI Projects are available to download from this repository: [<ins>Click here</ins>.]()
 
@@ -28,7 +29,7 @@ In order to prepare the data for analysis, I performed the following operations 
  - Bracketed the job title, favourite programming language, working insdustry and living country columns in order to simplify the analysis.
  - Constructed an average yearly salary column.
 
-2. Data Analysis
+3. Data Analysis
 
 The analysis of the dataset was done by using the following tools available in Power BI:
  - Treemap.
@@ -39,14 +40,14 @@ The analysis of the dataset was done by using the following tools available in P
  - Gauges.
  - Clustered column chart.
 
-3. Key Findings
+4. Key Findings
 
  - The majority of the respondents switched into data from other professional domains.
  - Only 31.8% of the respondents consider that it is difficult or very difficut to break into data.
  - Favourite programming language of the majority is Python, especially for Data Analysts.
  - A possible problem could be the happiness with the salary, which registered an average score of 4.27 out of 10, which is below average.
 
-4. References
+5. References
  - [Youtube](https://www.youtube.com/)
 
   ### <ins>Cyclistic Google Capstone Project</ins>
@@ -58,6 +59,44 @@ More on this project can be found [here](https://github.com/AlexPraporgescu/SQL-
 1. References
   
  - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?)
+
+  ### <ins>Google Playstore Analysis</ins>
+
+![image](https://github.com/AlexPraporgescu/Power-BI-Projects/assets/158141333/e574f4c7-27be-449e-b698-6ae10f5dcb49)
+
+1. Project Overview
+
+The goal is to analyze the Google Playstore Apps dataset to derive insights into the app market.
+I aim to understand the factors that contribute to an app's success, including its user ratings, reviews, and category.
+I want to explore user sentiments towards apps by analyzing the user reviews dataset.
+Additionally, insights into the popularity of app categories based on the total number of installs and the sentiment polarity of user reviews can be seen.
+The ultimate objective is to provide recommendations for app developers to enhance their app's performance and user satisfaction.
+
+2. Data Preparation and Cleaning
+
+Data preparation and cleaning was done using MySQL. A detailed walkthrough of the preparation and cleaning steps can be found [here]([++++++++++++](https://github.com/AlexPraporgescu/SQL-Google-Playstore-Analysis)).
+
+3. Data Analysis
+
+The analysis of the dataset was done by using the following tools available in Power BI:
+ - Cards.
+ - Bar charts.
+ - Donut charts.
+ - Line graphs.
+ - Tables.
+ - Slicers (for creating the interactive dashboard).
+
+4. Key Findings
+
+Some of the most important insights are:
+ - The app category with the best average rating is the personalization category having an average rating of 4.34.
+ - The apps categories with the highest number of installs are game followed by communication and productivity.
+ - The category that contains the most apps is family.
+ - The category with the most positive sentiments is personalization.
+
+5. References
+1. [Youtube](https://www.youtube.com/)
+2. [Kaggle.com](https://www.kaggle.com/datasets/reenapinto/google-play-store)
 
   ### <ins>Notes</ins>
 
