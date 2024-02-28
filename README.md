@@ -62,7 +62,7 @@ More on this project can be found [here](https://github.com/AlexPraporgescu/SQL-
 
   ### <ins>Google Playstore Analysis</ins>
 
-![image](https://github.com/AlexPraporgescu/Power-BI-Projects/assets/158141333/e574f4c7-27be-449e-b698-6ae10f5dcb49)
+![image](https://github.com/AlexPraporgescu/Power-BI-Projects/assets/158141333/81be06a9-60c0-4571-8b6f-625b5f3ad850)
 
 1. Project Overview
 
@@ -74,7 +74,7 @@ The ultimate objective is to provide recommendations for app developers to enhan
 
 2. Data Preparation and Cleaning
 
-Data preparation and cleaning was done using MySQL. A detailed walkthrough of the preparation and cleaning steps can be found [here]([++++++++++++](https://github.com/AlexPraporgescu/SQL-Google-Playstore-Analysis)).
+Data preparation and cleaning was done using MySQL. A detailed walkthrough of the preparation and cleaning steps can be found [here](https://github.com/AlexPraporgescu/SQL-Google-Playstore-Analysis).
 
 3. Data Analysis
 
@@ -89,10 +89,10 @@ The analysis of the dataset was done by using the following tools available in P
 4. Key Findings
 
 Some of the most important insights are:
- - The app category with the best average rating is the personalization category having an average rating of 4.34.
- - The apps categories with the highest number of installs are game followed by communication and productivity.
+ - The app category with the best average rating is the events category having an average rating of 4.44.
+ - The app with the highest number of reviews is Facebook followed by WhatsApp and Instagram.
  - The category that contains the most apps is family.
- - The category with the most positive sentiments is personalization.
+ - The best gaming app from the point of view of reviews is Clash of Clans.
 
 5. References
 1. [Youtube](https://www.youtube.com/)
